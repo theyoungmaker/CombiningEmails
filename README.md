@@ -20,11 +20,11 @@ The project has the following directory structure:
 
 ## Instructions
 
-Read the names from the `names.txt` file located in the `Contacts` directory. Each line in the file contains a single name.
+1. Read the names from the `names.txt` file located in the `Contacts` directory. Each line in the file contains a single name.
 
-For each name, create an individual email using the `draft.txt `file located in the `Email` directory. The `draft.txt` file contains the text of the email with a placeholder, `[name]`, which should be replaced with the actual name.
+2. For each name, create an individual email using the `draft.txt `file located in the `Email` directory. The `draft.txt` file contains the text of the email with a placeholder, `[name]`, which should be replaced with the actual name.
 
-Save each personalized email in the `Send` directory. The file should be named `Letter_for_<name>.txt`, where `<name>` is the name of the contact.
+3. Save each personalized email in the `Send` directory. The file should be named `Letter_for_<name>.txt`, where `<name>` is the name of the contact.
 
 ## Tips
 
