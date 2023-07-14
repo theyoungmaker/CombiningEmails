@@ -14,9 +14,9 @@ The project has the following directory structure:
 └── Send
 ```
 
-`Contacts`: This directory contains a file called `names.txt` which lists the names of the contacts to whom emails need to be sent.
-`Email`: This directory contains a file called `draft.txt` which serves as a template for the emails to be sent.
-`Send`: This directory will contain the final output of the project, i.e., the individual email drafts for each contact.
+- `Contacts`: This directory contains a file called `names.txt` which lists the names of the contacts to whom emails need to be sent.
+- `Email`: This directory contains a file called `draft.txt` which serves as a template for the emails to be sent.
+- `Send`: This directory will contain the final output of the project, i.e., the individual email drafts for each contact.
 
 ## Instructions
 
